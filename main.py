@@ -15,7 +15,7 @@ def profile():
     return render_template('profile.html', name=current_user.name)
 
 
-if __name__ == "__main__":
-    app = create_app()
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app = create_app()
+#     app.run(debug=True)
 
