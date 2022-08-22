@@ -1,0 +1,10 @@
+*.pyc
+*.ipynb
+.vscode/*
+instance/*
+*.log
+htmlcov/*
+/junit*
+/venv
+uploads/*
+data/sales_data/2220_sales_data.csv
